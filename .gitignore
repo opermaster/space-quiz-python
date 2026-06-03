@@ -1,2 +1,3 @@
 images/
 *.txt
+__pycache__/
