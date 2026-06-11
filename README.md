@@ -9,6 +9,9 @@ A desktop quiz application about space built with Python and Pygame.
 
 ```bash
 pip install pygame
+mkdir images
+type nul > questions.txt   # Windows
+touch questions.txt        # Linux / macOS
 ```
 
 ## Running
